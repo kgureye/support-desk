@@ -405,3 +405,8 @@ footer {
     font-size: 1.5rem;
   }  */
 }
+
+.ticket-heading {
+  text-align: center;
+  margin-bottom: 15px;
+}
